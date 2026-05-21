@@ -114,11 +114,11 @@ MSc AI/ML candidate building at the intersection of deep learning and practical 
 
 <p align="center">
   <i>Let's connect — I'm always up for interesting problems.</i><br/><br/>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/chris-corda-797052246">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:chriscorda65@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
