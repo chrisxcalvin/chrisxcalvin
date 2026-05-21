@@ -18,7 +18,7 @@ MSc AI/ML candidate building at the intersection of deep learning and practical 
 - 🔭 Currently working on: automation tools for India-specific D2C and SMB workflows
 - 🧠 Researching: LLM fine-tuning, efficient inference, and agentic systems
 - 💬 Ask me about: deep learning, Next.js, full-stack API integration
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · chrisxcalvin@github
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/chris-corda-797052246) · chrisxcalvin@github
 
 ---
 
@@ -36,10 +36,7 @@ MSc AI/ML candidate building at the intersection of deep learning and practical 
 
 **Full-Stack**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
