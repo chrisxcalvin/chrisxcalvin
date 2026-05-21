@@ -46,6 +46,7 @@ MSc AI/ML candidate building at the intersection of deep learning and practical 
 ### GitHub stats
 
 <p align="center">
+  <!-- stats coming soon
   <img src="https://github-readme-stats.vercel.app/api?username=chrisxcalvin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxcalvin&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
 </p>
