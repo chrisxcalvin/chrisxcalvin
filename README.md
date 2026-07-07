@@ -13,11 +13,8 @@
 
 ### About me
 
-MSc AI/ML candidate building at the intersection of deep learning and practical software. I work in PyTorch and TensorFlow, ship full-stack products with Next.js, and spend my gap year validating micro-SaaS ideas in underserved niches. I care about building things that actually ship — not just notebooks.
+MSc AI/ML candidate at CHRIST University, Bengaluru. I build at the intersection of deep learning and practical software — from RAG systems and NLP pipelines to full-stack products with Next.js. Currently working on MedScore, a multi-signal re-ranking framework for medical RAG. IEEE Student Member. I care about work that ships, not just notebooks.
 
-- 🔭 Currently working on: automation tools for India-specific D2C and SMB workflows
-- 🧠 Researching: LLM fine-tuning, efficient inference, and agentic systems
-- 💬 Ask me about: deep learning, Next.js, full-stack API integration
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/chris-corda-797052246) · chrisxcalvin@github
 
 ---
