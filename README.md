@@ -72,7 +72,7 @@ MSc AI/ML candidate building at the intersection of deep learning and practical 
 <table>
   <tr>
     <td width="50%">
-      <h4>🤖 <a href="https://github.com/chrisxcalvin/REPO_NAME">Project One</a></h4>
+      <h4>🤖 <a href="https://github.com/chrisxcalvin/REPO_NAME">Medilens-360</a></h4>
       <p>One punchy sentence — what it does and what problem it solves. No fluff.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
