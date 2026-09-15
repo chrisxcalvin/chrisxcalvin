@@ -75,8 +75,8 @@ MSc AI/ML candidate at CHRIST University, Bengaluru. I build at the intersection
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
     </td>
     <td width="50%">
-      <h4>🌐 <a href="https://github.com/chrisxcalvin/REPO_NAME">Project Two</a></h4>
-      <p>What model, what dataset, what accuracy — results that beat the baseline.</p>
+      <h4>🌐 <a href="https://github.com/chrisxcalvin/ResolveIQ">Resolve-IQ</a></h4>
+      <p>An AI-Assisted fin-tech ticket support triage system.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
