@@ -13,9 +13,9 @@
 
 ### About me
 
-MSc AI/ML candidate at CHRIST University, Bengaluru. I build at the intersection of deep learning and practical software — from RAG systems and NLP pipelines to full-stack products with Next.js. Currently working on MedScore, a multi-signal re-ranking framework for medical RAG. IEEE Student Member. I care about work that ships, not just notebooks.
+MSc AI/ML candidate at CHRIST University, Bengaluru. I build at the intersection of deep learning and practical software — from RAG systems and NLP pipelines to full-stack products with Next.js. 
 
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/chris-corda-797052246) · chrisxcalvin@github
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/chris-corda-797052246) · chriscorda65@gmail.com
 
 ---
 
