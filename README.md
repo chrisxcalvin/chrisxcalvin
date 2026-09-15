@@ -89,8 +89,8 @@ MSc AI/ML candidate at CHRIST University, Bengaluru. I build at the intersection
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td width="50%">
-      <h4>🔬 <a href="https://github.com/chrisxcalvin/REPO_NAME">Project Four</a></h4>
-      <p>Implementation of [paper name] with improvements. Achieves X% on benchmark.</p>
+      <h4>🔬 <a href="https://github.com/chrisxcalvin/SentryRAG">SentryRag</a></h4>
+      <p>A research contribution for pre-generation filter in medical rag </p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </td>
