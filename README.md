@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Chris+Calvin+Corda+%F0%9F%91%8B;MSc+AI%2FML+%C2%B7+Deep+Learning+%C2%B7+Full-Stack;Building+things+that+actually+ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Chris+Calvin+Corda+%F0%9F%91%8B;Specializing+in+RAG+systems+for+healthcare+%26+fintech;MSc+AI%2FML+%C2%B7+Deep+Learning+%C2%B7+Full-Stack" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=chrisxcalvin&color=58a6ff&style=flat-square&label=profile+views" />
 <img src="https://img.shields.io/badge/MSc-AI%2FML-1f6feb?style=flat-square" />
@@ -11,7 +11,7 @@
 
 <br/>
 
-MSc AI/ML candidate at CHRIST University, Bengaluru. I build at the intersection of deep learning and practical software — from RAG systems and NLP pipelines to full-stack products with Next.js.
+MSc AI/ML candidate at CHRIST University, Bengaluru, specializing in **Retrieval-Augmented Generation (RAG) systems** — multi-signal re-ranking for medical RAG, and human-in-the-loop AI copilots for fintech support triage. I ship the full pipeline myself: retrieval and agent logic in Python, backed by production-grade full-stack apps in Next.js and FastAPI.
 
 📫 [LinkedIn](https://linkedin.com/in/chris-corda-797052246) · chriscorda65@gmail.com
 
