@@ -103,21 +103,8 @@ Actively building the next portfolio-anchor project — this slot updates as new
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chrisxcalvin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxcalvin&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=chrisxcalvin&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-</div>
-
-<br/>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chrisxcalvin&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 <br/>
